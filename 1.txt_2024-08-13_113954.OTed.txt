@@ -1,0 +1,45 @@
+local CoreGui = game:GetService("StarterGui")
+CoreGui:SetCore("SendNotification", {
+    Title = "阎罗",--标题
+    Text = "感谢使用",--文本
+    Duration = 60, --存在时间
+})
+
+wait(1)--等待一秒
+
+local CoreGui = game:GetService("StarterGui")
+CoreGui:SetCore("SendNotification", {
+    Title = "阎罗",--标题
+    Text = "正在验证名称",--文本
+    Duration = 60, --存在时间
+})
+
+wait(1)
+
+local a=tostring(game.Players.LocalPlayer.Character);
+if a=="bailib"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+end
+if _G.whitelisted==true then
+    local CoreGui = game:GetService("StarterGui")
+CoreGui:SetCore("SendNotification", {
+    Title = "阎罗",--标题
+    Text = "你是白名单人员",--文本
+    Duration = 60, --存在时间
+})
+
+wait(1)
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/liaozhsaaa/2/main/drop.lua%20(1).txt"))()
+    else
+    local CoreGui = game:GetService("StarterGui")
+CoreGui:SetCore("SendNotification", {
+    Title = "Game Severe",--标题
+    Text = "你没有白名单",--文本
+    Duration = 60, --存在时间
+})
+end
