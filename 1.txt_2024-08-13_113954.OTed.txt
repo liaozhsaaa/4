@@ -17,11 +17,11 @@ CoreGui:SetCore("SendNotification", {
 wait(1)
 
 local a=tostring(game.Players.LocalPlayer.Character);
-if a=="bailib"then
+if a=="NHBar_Q"then
 _G.whitelisted=true
-elseif a=="name"then
+elseif a=="NHBar_Q"then
 _G.whitelisted=true
-elseif a=="name"then
+elseif a=="NHBar_Q"then
 _G.whitelisted=true
 end
 if _G.whitelisted==true then
