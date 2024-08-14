@@ -28,6 +28,7 @@ _G.whitelisted=true
 elseif a=="xszxwhbdd"then
 _G.whitelisted=true
 if _G.whitelisted==true then
+and
     local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
     Title = "阎罗",--标题
