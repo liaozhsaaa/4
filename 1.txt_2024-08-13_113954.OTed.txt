@@ -17,18 +17,14 @@ CoreGui:SetCore("SendNotification", {
 wait(1)
 
 local a=tostring(game.Players.LocalPlayer.Character);
-if a=="NHBar_Q"then
-_G.whitelisted=true
-elseif a=="NHBar_Q"then
-_G.whitelisted=true
-elseif a=="Zauzavg"then
+if a=="cssfzgss"then
 _G.whitelisted=true
 elseif a=="cssfzgss"then
 _G.whitelisted=true
-elseif a=="xszxwhbdd"then
+elseif a=="Zauzavg"then
 _G.whitelisted=true
-if _G.whitelisted==true then
 end
+if _G.whitelisted==true then
     local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
     Title = "阎罗",--标题
