@@ -25,6 +25,8 @@ elseif a=="Zauzavg"then
 _G.whitelisted=true
 elseif a=="cssfzgss"then
 _G.whitelisted=true
+elseif a=="xszxwhbdd"then
+_G.whitelisted=true
 if _G.whitelisted==true then
     local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
