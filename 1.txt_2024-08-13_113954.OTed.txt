@@ -21,7 +21,7 @@ if a=="NHBar_Q"then
 _G.whitelisted=true
 elseif a=="NHBar_Q"then
 _G.whitelisted=true
-elseif a=="NHBar_Q"then
+elseif a=="Zauzavg"then
 _G.whitelisted=true
 end
 if _G.whitelisted==true then
