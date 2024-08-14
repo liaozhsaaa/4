@@ -23,6 +23,10 @@ elseif a=="cssfzgss"then
 _G.whitelisted=true
 elseif a=="Zauzavg"then
 _G.whitelisted=true
+elseif a=="s270199"then
+_G.whitelisted=true
+elseif a=="uijgkjh"then
+_G.whitelisted=true
 end
 if _G.whitelisted==true then
     local CoreGui = game:GetService("StarterGui")
