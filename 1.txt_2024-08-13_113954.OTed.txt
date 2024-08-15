@@ -33,9 +33,9 @@ elseif a=="ohio_chlph"then
 _G.whitelisted=true
 elseif a=="eidjedjdn"then
 _G.whitelisted=true
-elseif a=="name"then
+elseif a=="XMWYX6258"then
 _G.whitelisted=true
-elseif a=="name"then
+elseif a=="shupian1234"then
 _G.whitelisted=true
 elseif a=="name"then
 _G.whitelisted=true
