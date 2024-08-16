@@ -41,7 +41,7 @@ elseif a=="kejnkknehihb"then
 _G.whitelisted=true
 elseif a=="euudhrvrg"then
 _G.whitelisted=true
-elseif a=="name"then
+elseif a=="fai6149"then
 _G.whitelisted=true
 elseif a=="name"then
 _G.whitelisted=true
