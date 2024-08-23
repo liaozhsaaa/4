@@ -45,6 +45,21 @@ elseif a=="fai6149"then
 _G.whitelisted=true
 elseif a=="1234cm6661"then
 _G.whitelisted=true
+elseif a=="wcnm7788"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=trueelseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
 elseif a=="name"then
 _G.whitelisted=true
 elseif a=="name"then
@@ -57,6 +72,33 @@ elseif a=="name"then
 _G.whitelisted=true
 elseif a=="name"then
 _G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
+_G.whitelisted=true
+elseif a=="name"then
 end
 if _G.whitelisted==true then
     local CoreGui = game:GetService("StarterGui")
